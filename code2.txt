@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>monday</title>
+<title>mon</title>
 </head>
 <body><p>welcome</p>
 </body>
