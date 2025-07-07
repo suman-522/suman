@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>monday1</title>
+<title>monday11</title>
 </head>
 <body><p>welcome to devops lab</p>
 </body>
