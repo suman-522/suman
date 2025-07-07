@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>mon</title>
+<title>monday</title>
 </head>
-<body><p>welcome</p>
+<body><p>welcome to devops lab</p>
 </body>
 </html>
